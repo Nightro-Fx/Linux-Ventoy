@@ -57,4 +57,5 @@ We will use this to set up the `autounattend.xml` file in Ventoy.
 7. Paste your **XML** file into your USB drive.
 8. Open the website from the previous step and navigate to **AutoInstall Plugin**.
 9. Configure your `ventoy.json` file to recognize your autoinstall file.
+10. In the video, I created my own but you can also use better ones like: https://github.com/memstechtips/UnattendedWinstall/releases/tag/v2.1.0
 
